@@ -1,0 +1,17 @@
+Herzlich willkommen und vielen Dank für das Interesse an meinen Projekten!
+
+Terraingenerator .cpp and .h waren Bestandteile eines Uniprojektes für das Fach Game Engine Design.
+Implementiert wurde hier einen Terrain Generator welcher eine Hügellandschaft erstellt samt Lichtberechnung darstellt. 
+(Shader Programming) 
+
+
+Die Python Files (.py) waren für ein Uniprojekt im Seminar namens "Computational Social Science". 
+Ein Komilitone und ich verwendeten die Flüchtlingsanzahl abhängig von geografischer Position und versuchten 
+mittels Neural Network/ Machine Learningmodel vorherzusehen, ob die Anzahl der Flüchtlinge abhängig vom Wetter ist.
+
+Die C# Files gehören zu einem Uniprojekt namens Open Realtime Games Workshop. Da haben wir ein Escape Room
+Spiel für die HTC Vive implementiert in einem kleinen 3er Team. Ein Alien muss aus einem Area 51 Gefängnis
+fliehen und dazu Rätsel lösen um die Freiheit zu erlangen. Screenshots anbei gehören auch dazu.
+
+The two java files are an attempt to make a flappy bird game in java. 
+
